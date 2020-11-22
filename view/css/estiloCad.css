@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+    display: block;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px;
+    background-color: rgba(255,255,255,0.01);
+    outline: none;
+}
+
+button, .cancelar{
+    margin-right: 5px;
+    float: right;
+}
+
+select{
+    margin: 10px;
+}
